@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadoresej2", "operadores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadoresej3", "operadoresej3\operadoresej3.csproj", "{1296DFDD-EB33-4EC7-830E-62F3DD09FF31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadoresej4", "operadoresej4\operadoresej4.csproj", "{33C6F6A2-2DF1-4067-9C68-4F45358001CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadoresej5", "operadoresej5\operadoresej5.csproj", "{764EB3E2-1193-48EA-BF87-6ED930EA171B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1296DFDD-EB33-4EC7-830E-62F3DD09FF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1296DFDD-EB33-4EC7-830E-62F3DD09FF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1296DFDD-EB33-4EC7-830E-62F3DD09FF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C6F6A2-2DF1-4067-9C68-4F45358001CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C6F6A2-2DF1-4067-9C68-4F45358001CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C6F6A2-2DF1-4067-9C68-4F45358001CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C6F6A2-2DF1-4067-9C68-4F45358001CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764EB3E2-1193-48EA-BF87-6ED930EA171B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764EB3E2-1193-48EA-BF87-6ED930EA171B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764EB3E2-1193-48EA-BF87-6ED930EA171B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764EB3E2-1193-48EA-BF87-6ED930EA171B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
